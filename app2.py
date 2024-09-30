@@ -148,7 +148,4 @@ if submitted:
 st.header("Data Table")
 df = read_data()
 
-if st.button("Refresh Table"):
-    df = read_data()  # Re-read the data from the Google Sheet
-
 st.dataframe(df, width=900, height=600)  # Display the data in a table
