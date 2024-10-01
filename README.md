@@ -19,8 +19,8 @@ Clone this repository to your local machine:
 ### 2. Open in Visual Studio Code
 Open the project folder in VS Code:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/pritamsharma45/streamlit-googlesheet
+cd streamlit-googlesheet
 ```
 
 ### 3. Set Up Virtual Environment (optional)
